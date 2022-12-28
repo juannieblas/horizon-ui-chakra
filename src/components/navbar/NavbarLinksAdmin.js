@@ -12,7 +12,6 @@ import {
   MenuList,
   Text,
   useColorModeValue,
-  useColorMode,
 } from "@chakra-ui/react";
 // Custom Components
 import { ItemContent } from "components/menu/ItemContent";

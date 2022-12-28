@@ -1,6 +1,6 @@
 {
-  "homepage": "https://horizon-ui.com/horizon-ui-chakra",
-  "name": "horizon-ui-chakra",
+  "homepage": "https://ratespot.io/",
+  "name": "RateSpot",
   "version": "1.0.1",
   "private": true,
   "dependencies": {
@@ -30,7 +30,7 @@
     "react-icons": "^4.3.1",
     "react-is": "^18.0.0",
     "react-router-dom": "^5.3.0",
-    "react-scripts": "5.0.0",
+    "react-scripts": "^5.0.1",
     "react-table": "^7.7.0",
     "stylis": "^4.1.1",
     "stylis-plugin-rtl": "2.0.2",
